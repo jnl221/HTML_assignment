@@ -45,8 +45,8 @@ Just like in class, I’d recommend that you open “index.html” in your brows
 
 **To turn in:**
 
--- Login to your Github account and go to your repositories page.
--- Click on the green 'New' button to create a new repository. Call it HTML_assignment_YourLastName. Make sure it's public and add a README. Click 'Create repository'.
--- Click 'Add file' and then, 'Upload files'. Upload all of the files in this folder.
--- Make your commit message 'Completed 11/10 HTML assignment' and click 'Commit changes'.
--- I will be checking each of your Github pages on 11/14 at noon to make sure these have been submitted on time. If they are not up at noon, I will automatically deduct 10% from your score.
+-- Login to your Github account and go to your repositories page.  
+-- Click on the green 'New' button to create a new repository. Call it HTML_assignment_YourLastName. Make sure it's public and add a README. Click 'Create repository'.  
+-- Click 'Add file' and then, 'Upload files'. Upload all of the files in this folder.  
+-- Make your commit message 'Completed 11/10 HTML assignment' and click 'Commit changes'.  
+-- I will be checking each of your Github pages on 11/14 at noon to make sure these have been submitted on time. If they are not up at noon, I will automatically deduct 10% from your score.  
