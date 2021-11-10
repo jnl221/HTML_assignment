@@ -48,5 +48,5 @@ Just like in class, I’d recommend that you open “main.html” in your browse
 -- Login to your Github account and go to your JNL221 page. Its name should be JNL221_YourLastName.  
 -- In this repository, click 'Add file' and then, 'Upload files'. Upload 'main.html' and 'main.css' in this folder.  
 -- Make your commit message 'Completed 11/10 HTML assignment' and click 'Commit changes'.  
--- You should be able to see your page after a few minutes at yourusername.github.io/JNL221_YourLastName/main.html. As long as you see 'main.html' and 'main.css' in your repository, you should be set.
+-- You should be able to see your page after a few minutes at yourusername.github.io/JNL221_YourLastName/main.html. As long as you see 'main.html' and 'main.css' in your repository, you should be set.  
 -- I will be checking each of your Github pages on 11/14 at noon to make sure these have been submitted on time. If they are not up at noon, I will automatically deduct 10% from your score.  
