@@ -6,11 +6,11 @@ Instructions:
 
 -- Locate a news story from a reputable online news source. It needs to have at least eight (8) paragraphs of written text and include at least two (2) high-resolution images with written photo captions.
 
--- Right-click on each image in the story and save it within this folder.
+-- Right-click on each image in the story and save it within the folder you just downloaded.
 
-*It’s critical that all these files are within the same computer folder as you work.*
+*It’s critical that all these files are within the same computer folder.*
 
-Just like in class, I’d recommend that you open “index.html” in your browser as well as in Sublime Text so that you can examine your work as you go. If you don't know what an element is, check W3Schools or stackoverflow.com. Use previous repositories here [https://github.com/jnl221] as resources. We are at a point in the semester where you should feel comfortable researching how to do an unfamiliar thing.
+Just like in class, I’d recommend that you open “main.html” in your browser as well as in Sublime Text so that you can examine your work as you go. If you don't know what an element is, check W3Schools or stackoverflow.com. Use previous repositories here [https://github.com/jnl221] as resources. We are at a point in the semester where you should feel comfortable researching how to do an unfamiliar thing.
 
  
 **Inside the head element**
@@ -45,8 +45,8 @@ Just like in class, I’d recommend that you open “index.html” in your brows
 
 **To turn in:**
 
--- Login to your Github account and go to your repositories page.  
--- Click on the green 'New' button to create a new repository. Call it HTML_assignment_YourLastName. Make sure it's public and add a README. Click 'Create repository'.  
--- Click 'Add file' and then, 'Upload files'. Upload all of the files in this folder.  
+-- Login to your Github account and go to your JNL221 page. Its name should be JNL221_YourLastName.  
+-- In this repository, click 'Add file' and then, 'Upload files'. Upload 'main.html' and 'main.css' in this folder.  
 -- Make your commit message 'Completed 11/10 HTML assignment' and click 'Commit changes'.  
+-- You should be able to see your page after a few minutes at yourusername.github.io/JNL221_YourLastName/main.html. As long as you see 'main.html' and 'main.css' in your repository, you should be set.
 -- I will be checking each of your Github pages on 11/14 at noon to make sure these have been submitted on time. If they are not up at noon, I will automatically deduct 10% from your score.  
