@@ -23,7 +23,7 @@ Just like in class, I’d recommend that you open “main.html” in your browse
 
 3. Add a header element. Inside, write “HTML/CSS Assignment #1” followed by a break element. Next, write “Source: ” followed by the URL of the news story you’ve chosen. Make that URL into a working hyperlink to the original news story.
 
-4. Add a div element to hold the main image and caption for your story. Set its class attribute to “mainimg”. Inside the div:
+4. Add a div element to hold the main image and caption for your story. Inside the div:
 
 	a. Add an img element, setting the src attribute to the name of your first image file. Give it appropriate alt text.
 
