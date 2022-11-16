@@ -10,7 +10,7 @@ Instructions:
 
 *It’s critical that all these files are within the same computer folder.*
 
-Just like in class, I’d recommend that you open “main.html” in your browser as well as in Sublime Text so that you can examine your work as you go. If you don't know what an element is, check W3Schools or stackoverflow.com. Use previous repositories here [https://github.com/jnl221] as resources. We are at a point in the semester where you should feel comfortable researching how to do an unfamiliar thing.
+Just like in class, I’d recommend that you open “main.html” in your browser as well as in Sublime Text so that you can examine your work as you go. If you don't know what an element is, check W3Schools or stackoverflow.com. Use previous repositories here [https://github.com/jnl221] as resources. We are at a point in the semester where you should feel comfortable researching how to do an unfamiliar thing. This assignment is as much a test of your research/Google skills as it is a test of your basic HTML skills!
 
  
 **Inside the head element**
