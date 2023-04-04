@@ -1,3 +1,5 @@
+**Due anytime this weekend, Sunday midnight at the latest**  
+
 **HTML/CSS 1: Page Structure**  
 
 Instructions: 
@@ -10,7 +12,7 @@ Instructions:
 
 *It’s critical that all these files are within the same computer folder.*
 
-Just like in class, I’d recommend that you open “main.html” in your browser as well as in Sublime Text so that you can examine your work as you go. If you don't know what an element is, check W3Schools or stackoverflow.com. Use previous repositories here [https://github.com/jnl221] as resources. We are at a point in the semester where you should feel comfortable researching how to do an unfamiliar thing. This assignment is as much a test of your research/Google skills as it is a test of your basic HTML skills!
+Just like in class, I’d recommend that you open “main.html” in your browser as well as in Sublime Text so that you can examine your work as you go. If you don't know what an element is, check W3Schools or stackoverflow.com. Use previous repositories here [https://github.com/jnl221] as well as reference_sheet.html as resources. We are at a point in the semester where you should feel comfortable researching how to do an unfamiliar thing. This assignment is as much a test of your research/Google skills as it is a test of your basic HTML skills!
 
  
 **Inside the head element**
@@ -47,6 +49,6 @@ Just like in class, I’d recommend that you open “main.html” in your browse
 
 -- Login to your Github account and go to your JNL221 page. Its name should be JNL221_YourLastName.  
 -- In this repository, click 'Add file' and then, 'Upload files'. Upload 'main.html', 'main.css' and your two images into this folder.  
--- Add a commit message and click 'Commit changes'.  
+-- Add an appropriate commit message and click 'Commit changes'.  
 -- You should be able to see your page after a few minutes at yourusername.github.io/JNL221_YourLastName/main.html. As long as you see 'main.html' and 'main.css' in your repository, you should be set.  
--- I will be checking each of your Github pages over the weekend to make sure these have been submitted on time. If they are not up by noon on Sunday, I will automatically deduct 10% from your score.  
+-- I will be checking each of your Github pages over the weekend to make sure these have been submitted on time.  
